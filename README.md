@@ -1,5 +1,9 @@
 # Ruta 2024 Python
 
+## Canales:
+* Tiktok: https://www.tiktok.com/@codeando.dev
+* Kick: https://kick.com/codeando
+
 ## Estación 1: Introducción y Fundamentos de Python
 1. Introducción y Fundamentos de Python
 2. Operadores: La Base del Cálculo en Programación
