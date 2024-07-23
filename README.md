@@ -1,4 +1,4 @@
-# Ruta 2024 Python
+# Ruta de Programación de 0 a conocedor Python - 2024
 
 ## Canales:
 * Tiktok: https://www.tiktok.com/@codeando.dev
